@@ -1,0 +1,4 @@
+#Sun May 21 20:59:39 IST 2023
+base.0=H\:\\VR-for-Education--main\\VR-for-Education--main\\Temp\\gradleOut\\launcher\\build\\intermediates\\transforms\\dexMerger\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex
